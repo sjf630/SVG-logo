@@ -1,5 +1,7 @@
 # SVG Logo Maker
 
+## Description
+
 Generate a simple SVG logo based on user input. The program prompts for logo text (up to three characters), text color, logo shape (circle, triangle, or square), and shape color. A `logo.svg` file is generated.
 
 ![Logo Example](./Develop/logo.svg)
